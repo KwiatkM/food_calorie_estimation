@@ -1,0 +1,10 @@
+models/segmentation/*pth
+showcase_data
+test_images
+wyniki.csv
+media/schabowy1
+media/banan
+media/jablko
+media/chleb
+media/ryz
+media/schabowy2
